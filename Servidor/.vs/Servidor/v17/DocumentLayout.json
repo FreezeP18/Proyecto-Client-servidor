@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\OneDrive\\Escritorio\\sis ops\\Servidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBBB3E4-BFF4-4182-95CF-BAC95BF2C1A3}|Servidor.csproj|c:\\users\\sebas\\onedrive\\escritorio\\sis ops\\servidor\\presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBBB3E4-BFF4-4182-95CF-BAC95BF2C1A3}|Servidor.csproj|solutionrelative:presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\OneDrive\\Escritorio\\sis ops\\Servidor\\Presentacion\\Principal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Principal.cs",
+              "ToolTip": "C:\\Users\\sebas\\OneDrive\\Escritorio\\sis ops\\Servidor\\Presentacion\\Principal.cs",
+              "RelativeToolTip": "Presentacion\\Principal.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAwwKIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:10:23.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
